@@ -5,7 +5,9 @@ guess = 0
 attempts = 0
 
 while number != guess:
-    guess = input(f"Guess a number between 1 and 10!\n# of attempts: {attempts}\n")
+    guess = input(f"Guess a number between 1 and 10!\nEnter 'q' to exit\n# of attempts: {attempts}\n")
+    if guess == "q":
+        break
     if guess.isdigit():
         guess = int(guess)
         if guess > 10 or guess < 1:
