@@ -1,4 +1,4 @@
-# 15-1. Pet Class
+# 16-1. Pet Class
 
 class Bird:
     def __init__(self, name, age, breed):

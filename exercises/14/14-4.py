@@ -1,4 +1,4 @@
-# 13-4. Passing Grade
+# 14-4. Passing Grade
 
 import random
 

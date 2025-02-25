@@ -1,4 +1,4 @@
-# 14-6. Destinations 3
+# 15-6. Destinations 3
 
 ratings = {"Wendy's": [8, 7, 4], "Knotts Berry Farm": [6, 9, 8], "Taco Bell": [5, 7, 6]}
 

@@ -1,4 +1,4 @@
-# 11-2. Rectangle Area Calculator
+# 12-2. Rectangle Area Calculator
 
 def calculate_rectangle_area(length, width):
   return length * width

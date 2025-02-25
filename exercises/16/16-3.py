@@ -1,4 +1,4 @@
-# 15-3. People and Employees
+# 16-3. People and Employees
 
 class Person:
     def __init__(self, name, age):

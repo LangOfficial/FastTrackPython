@@ -1,4 +1,4 @@
-# 11-3. Word Count
+# 12-3. Word Count
 
 def word_count(sentence):
   words = sentence.split(' ')

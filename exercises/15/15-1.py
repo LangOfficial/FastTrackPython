@@ -1,4 +1,4 @@
-# 14-1. Tic-Tac-Toe
+# 15-1. Tic-Tac-Toe
 
 board = [
   ['X', 'O', 'X'],

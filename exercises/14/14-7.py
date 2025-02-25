@@ -1,4 +1,4 @@
-# 13-7. Combine First and Last Names
+# 14-7. Combine First and Last Names
 
 first_names = ['John', 'Jimmy', 'Jonathan']
 last_names = ['Green', 'Dean', 'Johnson']

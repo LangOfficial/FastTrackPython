@@ -1,4 +1,4 @@
-# 11-1. Tell a Joke
+# 12-1. Tell a Joke
 
 def tell_joke(joke):
   print(joke)

@@ -1,4 +1,4 @@
-# 11-7. Vacation Trip 2
+# 12-7. Vacation Trip 2
 
 def vacation_trip(destination, *people):
   # print(f"Me and {people} are going to {destination}!") # This is fine but looping would look nicer.

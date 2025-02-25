@@ -1,4 +1,4 @@
-# 11-5. Vacation Trip
+# 12-5. Vacation Trip
 
 def vacation_trip(destination, friend):
   print(f"Me and {friend} are going to {destination}!")

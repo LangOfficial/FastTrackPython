@@ -1,4 +1,4 @@
-# 16-3. Are You Old Enough to Drive?
+# 17-3. Are You Old Enough to Drive?
 
 def check_driving_age(age):
     if age < 16:

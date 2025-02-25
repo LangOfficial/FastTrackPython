@@ -1,4 +1,4 @@
-# 11-6. Eating Out
+# 12-6. Eating Out
 
 def eating_out(restaurant="Chiptole"):
   print(f"We're eating at {restaurant}!")

@@ -1,4 +1,4 @@
-# 11-4. Is the Word Short or Long?
+# 12-4. Is the Word Short or Long?
 
 def is_short_or_long(s):
   if len(s) >= 10: # or > 9

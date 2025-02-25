@@ -1,4 +1,4 @@
-# 14-2. Fruit Selection
+# 15-2. Fruit Selection
 
 fruits = [["apple", "banana", "cherry"], ["grape", "orange", "melon"], ["kiwi", "pineapple", "mango"]]
 

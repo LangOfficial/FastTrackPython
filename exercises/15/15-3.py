@@ -1,4 +1,4 @@
-# 14-3. Sum of Matrix
+# 15-3. Sum of Matrix
 
 matrix = [
     [1, 2, 3],
