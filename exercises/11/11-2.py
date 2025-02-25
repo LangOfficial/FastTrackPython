@@ -1,4 +1,4 @@
-# 10-2. Expand Menu
+# 11-2. Expand Menu
 
 menu = {"burger": 7.99, "pizza": 9.99, "cookie": 1.25}
 

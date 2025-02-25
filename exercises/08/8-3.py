@@ -1,4 +1,4 @@
-# 7-3 : Factorial 10
+# 8-3 : Factorial 10
 
 import math
 

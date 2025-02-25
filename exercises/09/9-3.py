@@ -1,4 +1,4 @@
-# 8-3: Even or Odd?
+# 9-3: Even or Odd?
 
 number = int(input("Enter a number: "))
 

@@ -1,4 +1,4 @@
-# 8-7: Skip the Exam
+# 9-7: Skip the Exam
 
 grade_letter = 'A'
 avg_test_score = 88

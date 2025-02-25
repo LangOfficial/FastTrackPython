@@ -1,4 +1,4 @@
-# 9-3: Cart Total
+# 10-3: Cart Total
 
 sub_total = 0
 tax = .0725 # if you want to apply tax

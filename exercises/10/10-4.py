@@ -1,4 +1,4 @@
-# 9-4. Free Money
+# 10-4. Free Money
 
 grades = ['A', 'B', 'A', 'C', 'B', 'A', 'A']
 grades_a = 0

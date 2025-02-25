@@ -1,4 +1,4 @@
-# 8-2. Is it Lowercase?
+# 9-2. Is it Lowercase?
 
 word = input('Enter a word: ')
 

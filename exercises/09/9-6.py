@@ -1,4 +1,4 @@
-# 8-6: Membership is Awesome
+# 9-6: Membership is Awesome
 
 is_member = True
 spending = 120

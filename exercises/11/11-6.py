@@ -1,4 +1,4 @@
-# 10-6. Menu Advertisement
+# 11-6. Menu Advertisement
 
 menu = {"burger": 7.99, "pizza": 9.99, "cookie": 1.25}
 

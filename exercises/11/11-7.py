@@ -1,4 +1,4 @@
-# 10-7. Menu Availability
+# 11-7. Menu Availability
 
 menu = {"burger": 7.99, "pizza": 9.99, "cookie": 1.25}
 

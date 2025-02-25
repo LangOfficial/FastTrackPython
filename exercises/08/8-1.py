@@ -1,4 +1,4 @@
-# 7-1. Hobbies
+# 8-1. Hobbies
 
 hobbies = ['coding', 'reading', 'tennis', 'lifting weights']
 

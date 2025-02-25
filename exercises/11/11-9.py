@@ -1,4 +1,4 @@
-# 10-9. Popular Items
+# 11-9. Popular Items
 
 menu = {"burger": 7.99, "pizza": 9.99, "cookie": 1.25}
 popular_items = ['pizza']

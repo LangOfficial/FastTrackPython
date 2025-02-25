@@ -1,4 +1,4 @@
-# 8-8. Too Expensive Cars
+# 9-8. Too Expensive Cars
 
 cars = ['BMW', 'Toyota', 'Ford', 'Ferrari', 'Cadillac', 'Ferrari']
 expensive_cars = ['Ferrari', 'BMW']

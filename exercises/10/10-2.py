@@ -1,4 +1,4 @@
-# 9-2: User Countdown
+# 10-2: User Countdown
 
 countdown = int(input("Enter a countdown number: "))
 

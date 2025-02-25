@@ -1,4 +1,4 @@
-# 10-8. Average Menu Price
+# 11-8. Average Menu Price
 
 menu = {"burger": 7.99, "pizza": 9.99, "cookie": 1.25}
 

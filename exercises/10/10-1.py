@@ -1,4 +1,4 @@
-# 9-1. Countdown
+# 10-1. Countdown
 
 countdown = 10
 while countdown > 0:

@@ -1,4 +1,4 @@
-# 10-5. 5-Star Meal
+# 11-5. 5-Star Meal
 
 menu = {"burger": 7.99, "pizza": 9.99, "cookie": 1.25}
 total_price = 0

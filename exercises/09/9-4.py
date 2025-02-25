@@ -1,4 +1,4 @@
-# 8-4 : What Did You Get?
+# 9-4 : What Did You Get?
 
 score = int(input("What did you get on the math test? "))
 
