@@ -1,4 +1,4 @@
-# 6-11. Highest and Lowest Scores
+# 7-3. Highest and Lowest Scores
 
 scores = [90, 67, 94, 86, 71]
 

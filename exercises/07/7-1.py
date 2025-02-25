@@ -1,4 +1,4 @@
-# 6-9. Sort Names Alphabetically
+# 7-1. Sort Names Alphabetically
 
 friends = ['Greg', 'Zachary', 'Andrew', 'Alyssa', 'Jimmy', 'Beatrice']
 
