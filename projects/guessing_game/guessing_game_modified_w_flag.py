@@ -10,16 +10,12 @@ if change_range == 'y':
 number = random.randint(start, end)
 guess = 0
 attempts = 5
-quitted = False
 
-while number != guess and attempts > 0 and not quitted:
+while number != guess and attempts > 0:
     guess = input(f"Guess a number between {start} and {end}!\nEnter 'q' to quit the game.\n# of attempts: {attempts}\n")
     if guess == 'q':
-        # the most simple solution is...
-        # could keep it as a break statement, keep "guess == 'q'" an independent if statment  and remove the loop's third condition
-        # should be back to "while number != guess and attempts > 0"
-        quitted = True
-    elif guess.isdigit():
+        break
+    if guess.isdigit():
         guess = int(guess)
         if guess > end or guess < start:
             print("Enter a number within the range please!")
@@ -32,7 +28,7 @@ while number != guess and attempts > 0 and not quitted:
     else:
         print("Enter an integer please!")
         continue
-if quitted:
+if guess == 'q':
     print(f"You quitted the game. The number was {number}.")
 elif number != guess and attempts == 0:
     print(f"You ran out of attempts! The number was {number}.")
