@@ -36,13 +36,18 @@ def mastery_test():
             tough_cards[question] = answer
             print(f"You'll get it next time. The correct answer is {answer}.")
             
-    print(f"You got a {correct} out of {total}!")
+    print(f"You got {correct} correct out of {total}!")
 
 def review_tough_cards():
     if not tough_cards:
         print("No challenging cards found. You're good to go!")
         return
     while True:
+def review_tough_cards():
+    # if not tough_cards:
+    #     print("No challenging cards found. You're good to go!")
+    #     return
+    while tough_cards:
         print("Enter 'q' to quit.") # give them the option to quit because it might be fruastating
         for question, answer in list(tough_cards.items()):
             print(question)
@@ -54,10 +59,10 @@ def review_tough_cards():
                 print(f"You're improving already! The answer is {answer}!")
             else:
                 print(f"Not quite! The answer is {answer}.")
-                
-        if not tough_cards:
-            print("No challenging cards found. You're good to go!")
-            break
+    print("No challenging cards found. You're good to go!")
+        # if not tough_cards:
+        #     print("No challenging cards found. You're good to go!")
+        #     break
             
 while True:
     print("\nPython 101 Flashcards\n")
