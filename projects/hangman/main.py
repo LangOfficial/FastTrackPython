@@ -26,7 +26,6 @@ while attempts > 0 and ''.join(user_word) != word:
     else:
         attempts -= 1
         print(f"Incorrect!")
-        continue
     
 if attempts == 0:
   print(f"Game over! The word was {word}")
