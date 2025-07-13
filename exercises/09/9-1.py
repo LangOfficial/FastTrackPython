@@ -1,4 +1,4 @@
-# 9-1. Is that your Favorite Food?
+# 9-1. Is That Your Favorite Food?
 
 favorite_food = 'burritos'
 
