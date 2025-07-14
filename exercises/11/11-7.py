@@ -2,7 +2,7 @@
 
 menu = {"burger": 7.99, "pizza": 9.99, "cookie": 1.25}
 
-# don't necessarily need to have customer dialogue :)
+# Don't necessarily need to have customer dialogue :)
 print("Customer: Do you guys have the pizza?")
 
 if 'pizza' in menu:
