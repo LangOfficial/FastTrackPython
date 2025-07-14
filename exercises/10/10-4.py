@@ -1,4 +1,4 @@
-# 10-5: Serving Customers
+# 10-4: Serving Customers
 
 customers = ['Jimmy', 'Timmy']
 
