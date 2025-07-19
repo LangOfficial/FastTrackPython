@@ -28,6 +28,7 @@ while number != guess and attempts > 0:
     else:
         print("Enter an integer please!")
         continue
+        
 if guess == 'q':
     print(f"You quitted the game. The number was {number}.")
 elif number != guess and attempts == 0:
