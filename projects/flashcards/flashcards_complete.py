@@ -39,11 +39,6 @@ def mastery_test():
     print(f"You got {correct} correct out of {total}!")
 
 def review_tough_cards():
-    if not tough_cards:
-        print("No challenging cards found. You're good to go!")
-        return
-    while True:
-def review_tough_cards():
     # if not tough_cards:
     #     print("No challenging cards found. You're good to go!")
     #     return
