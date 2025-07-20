@@ -43,7 +43,7 @@ def review_tough_cards():
     #     print("No challenging cards found. You're good to go!")
     #     return
     while tough_cards:
-        print("Enter 'q' to quit.") # give them the option to quit because it might be fruastating
+        print("Enter 'q' to quit.")
         for question, answer in list(tough_cards.items()):
             print(question)
             user_answer = input("Answer: ") 
