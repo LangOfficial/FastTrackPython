@@ -6,6 +6,11 @@ board = [
   ['O', 'X', 'O']
 ]
 
+# Indexing
 print(board[0])
 print(board[1])
 print(board[2])
+
+# Looping
+for row in board:
+  print(row)
