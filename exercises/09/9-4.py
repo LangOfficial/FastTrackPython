@@ -10,7 +10,7 @@ elif score >= 70: # C
   print(f"{score}? That's a C. At least you passed.")
 elif score >= 60: # D
   print(f"{score}? That's a D. That sucks.")
-elif score >= 50: # F
+elif score >= 0: # F
   print(f"{score}? That's an F. You failed me.")
-else:
+else: # Negative scores
   print("Huh?")
