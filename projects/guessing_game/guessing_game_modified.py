@@ -1,4 +1,5 @@
 import random
+
 change_range = input("Want to change the range? (y/n) ")
 start = 1
 end = 10
