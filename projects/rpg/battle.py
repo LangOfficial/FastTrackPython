@@ -1,5 +1,6 @@
 def battle(player, enemy):
     print(f"A wild {enemy.name} appears!")
+    
     while player.hp > 0 and enemy.hp > 0:
         print(f"Your HP: {player.hp}")
         print(f"Enemy's HP: {enemy.hp}")
