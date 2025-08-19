@@ -4,5 +4,6 @@ best_cars = ["Honda Civic", "Toyota Camry", "Ford Mustang", "BMW", "Hellcat"]
 bestest_cars = best_cars[:3]
 print("The top 3 best cars are", bestest_cars)
 
-# could also do
+# Could also do
 print("The top 3 best cars are", best_cars[:3])
+
